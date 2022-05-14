@@ -73,7 +73,7 @@ public class ActivityMain extends AppCompatActivity {
 		playerTurn = 0;
 		moveCount = 0;
 		moves = new int[]{2, 2, 2, 2, 2, 2, 2, 2, 2};
-		textViewStatus.setText("Player O's turn - Tap to play");
+		textViewStatus.setText(R.string.turn_player_o);
 		i0.setImageResource(0);
 		i1.setImageResource(0);
 		i2.setImageResource(0);
