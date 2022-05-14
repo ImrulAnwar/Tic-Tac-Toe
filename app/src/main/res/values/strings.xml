@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="winning_text_o">Congratulations! Player O Won</string>
+    <string name="winning_text_x">Congratulations! Player X Won</string>
+    <string name="turn_player_o">Player O\'s turn - Tap to play</string>
+    <string name="turn_player_x">Player X\'s turn - Tap to play</string>
+</resources>
